@@ -1,10 +1,3 @@
-#Landy
-
-**A flexible one-page fully responsive HTML template for your app**
-
-This documentation will guide you through the basic functions of the template. Although the template is designed for a maximum ease of use, this guide it is not intended to teach HTML or CSS and you will require basic knowledge of both in order to customize the template to your liking.
-
-<a href="http://landy.paolotripodi.com" target="blank" alt="landy-demo">Check out live demo here</a>
 
 ##Features
 
@@ -107,13 +100,3 @@ For example, for the facebook icon, you would do this:
 ```
 <div class="icon-facebook"></div>
 ```
-##Copyright and Licensing
-
-Code and documentation © Paolo Tripodi, 2014. 
-Code released under <a href="https://github.com/paolotripodi/Landy-v1.0/blob/master/LICENSE.md" alt="MIT Lincense">MIT</a>
-
-<hr/>
-
-Checkout Landy on <a href="http://drbl.in/kbfC" alt="Dribbble - Landy">Dribbble</a> and <a href="http://bit.ly/1nU1DLF" alt="Dribbble - Landy">Behance.</a>
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/paolotripodi/landy-v1.0/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
