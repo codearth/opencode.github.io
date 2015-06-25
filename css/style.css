@@ -354,6 +354,69 @@ header .carousel-indicators li {
 	color: rgb(84, 194, 243);
 	text-align: left;
 }
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*	whatwedo
+/*-----------------------------------------------------------------------------------*/
+
+.whatwedo{
+	background-color: rgb(215, 215, 215);
+	overflow: hidden;
+	padding: 50px 0px 50px 0px;
+	min-height: 400px;
+	color: rgb(245, 244, 244);
+}
+
+.whatwedo p {
+	color: rgb(74, 196, 250);
+	font-weight: 400;
+}
+
+.whatwedo h2{
+	color: #202522;
+	text-transform: uppercase;
+	font-weight: 100;
+	padding-bottom: 20px;
+}
+
+
+.whatwedo h1{
+	padding-top: 0px;
+	text-transform: uppercase;
+	font-weight: 100;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 36px;
+	color: rgb(255, 255, 255);
+}
+
+.whatwedo h3 {
+	padding-bottom: 32px;
+	color: rgb(32, 32, 32);
+	font-weight: 100;
+}
+
+.whatwedo .circle{
+	background-color: rgb(74, 196, 250);
+	box-sizing: border-box;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 33px;
+	width: 150px;
+	height: 150px;
+	border: 2px solid #4AC4FA;
+	border-radius: 100%;
+	text-align: center;
+	
+}
+
+.whatwedo span.glyphicon, .whatwedo i{
+	margin-top: 3px;
+	color: #FFFFFF;
+	font-size: 5em;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*	FEATURES
 /*-----------------------------------------------------------------------------------*/
@@ -410,6 +473,8 @@ header .carousel-indicators li {
 	color: #ffffff;
 	font-size: 5em;
 }
+
+
 
 /*-----------------------------------------------------------------------------------*/
 /*	SOCIAL
