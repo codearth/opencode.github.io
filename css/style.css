@@ -496,7 +496,7 @@ header .carousel-indicators li {
 }
 
 .services ul li a{
-	color: #aaa;
+	color: #FFF;
 	font-size: 1.2em;
 	-webkit-transition: all 300ms ease-in-out;
 	-moz-transition: all 300ms ease-in-out;
@@ -664,7 +664,7 @@ header .carousel-indicators li {
 .technologies{
 	padding: 0px 0px 60px 0px;
 	text-align: center;
-	background-color: rgb(197, 224, 236);
+	background-color: rgb(240, 247, 250);
 }
 
 .technologies button.app-store{
